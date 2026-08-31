@@ -1,3 +1,7 @@
+<style>
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: -moz-crisp-edges;
+</style>
 <div align = center font-size="20">
 
   <h1>this page has some <b>flashing images</b>!</h1>
