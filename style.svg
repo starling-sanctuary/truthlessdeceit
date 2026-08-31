@@ -8,70 +8,22 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            image {
-                image-rendering: -webkit-optimize-contrast;
-                image-rendering: -moz-crisp-edges;
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
             }
             </style>
-            
-            <image src="smilk.webp" width="375">
-            <image src="tr.webp" width="375">
-            
-            <br>
-            
-            <image src="sj.webp" width="750">
-                
-            <br>
-            
-            <image src="stamp4.webp" width="250">
-            <image src="stamp5.png" width="250">
-            <image src="stamp6.png" width="250">
-             
-            <br>
-            
-            <image src="trickster.webp" width="375">
-            <image src="pvsm.webp" width="375">
-            
-            <br>
-            
-            <image src="stamp1.png" width="250">
-            <image src="stamp2.webp" width="250">
-            <image src="stamp3.webp" width="250">
-            
-            <br>
-            <br>
-            
-            <image src="checkerboard.webp" width="750">
-            
-            <br>
-            <br>
-            
-            <image src="insane.png" width="375">
-            <image src="barbed.jpg" width="375">
-            
-            <br>
-            
-            <image src="bat.webp" width="250">
-            <image src="dj.webp" width="250">
-            <image src="bitch.webp" width="250">
-            
-            <br>
-            
-            <image src="toxicyaoi.gif" width="375">
-            <image src="toxicyuri.gif" width="375">
-            
-            <br>
-            
-            <image src="biohazard.gif" width="275">
-            <image src="livingdeadgirl.webp" width="475">
-            
-            <br>
-            
-            <image src="emoticons.webp" width="750">
-            
-            <br>
-            
-            <!-- <image src="previous.webp" href="https://github.com/shadowrecluse" width="350">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<image src="next.webp" href="https://github.com/shadowrecluse" width="300"> -->
+            <h1>HELLO WORLD!</h1>
+            <image href="smilk.webp" width="375">
             
         </div>
     </foreignObject>
