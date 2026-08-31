@@ -13,7 +13,6 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
                 image-rendering: -moz-crisp-edges;
             }
             </style>
-            <div>
                 <img src="smilk.webp" width="375">
                 <img src="tr.webp" width="375">
                 
@@ -72,7 +71,6 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
                 <br>
                 
                 <img src="previous.webp" href="https://github.com/shadowrecluse" width="350">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="next.webp" href="https://github.com/shadowrecluse" width="300">
-            </div>
         </div>
     </foreignObject>
 </svg>
