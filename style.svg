@@ -23,7 +23,8 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
             }
             </style>
             <h1>HELLO WORLD!</h1>
-            <image href="smilk.webp" width="375">
+            <!-- <image href="smilk.webp" width="375"> -->
+              <image height="200" width="300" href="smilk.webp" />
             
         </div>
     </foreignObject>
