@@ -14,7 +14,7 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
             }
             </style>
             
-            <image src="smilk.webp" width="375"/>
+            <image x="100" y="100"src="smilk.webp" width="375"/>
             <image src="tr.webp" width="375"/>
             
             <br/>
