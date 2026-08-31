@@ -19,7 +19,7 @@
   
   ![now-playing](now-playing.svg)
   
-  <img src=smilk.webp width="375" image-rendering="-webkit-optimize-contrast" image-rendering="-moz-crisp-edges">
+  <img src=smilk.webp width="375" image-rendering="pixelated">
   <img src=tr.webp width="375">
   
   <br>
