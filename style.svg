@@ -13,7 +13,8 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
                 image-rendering: -moz-crisp-edges;
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <img src="smilk.webp" width="375">
+            <img src="tr.webp" width="375">
         </div>
     </foreignObject>
 </svg>
