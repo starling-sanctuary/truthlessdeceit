@@ -1,7 +1,7 @@
-<style>
+<!-- <style>
   image-rendering: -webkit-optimize-contrast;
   image-rendering: -moz-crisp-edges;
-</style>
+</style> -->
 <div align = center font-size="20">
 
   <h1>this page has some <b>flashing images</b>!</h1>
@@ -19,7 +19,7 @@
   
   ![now-playing](now-playing.svg)
   
-  <img src=smilk.webp width="375">
+  <img src=smilk.webp width="375" image-rendering="-webkit-optimize-contrast" image-rendering="-moz-crisp-edges">
   <img src=tr.webp width="375">
   
   <br>
