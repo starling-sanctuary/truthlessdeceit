@@ -19,6 +19,8 @@
   <p><b><h2>the dance will free your hearts!</h2></b></i></p>
   
   ![now-playing](now-playing.svg)
+
+  <img src="style.svg" width="400" height="400">
   
   <img src=smilk.webp width="375">
   <img src=tr.webp width="375">
