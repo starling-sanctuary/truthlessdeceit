@@ -22,7 +22,7 @@
 
   <img src="style.svg" width="400" height="400">
   
-  <img src=smilk.webp width="375">
+  <img src=smilk.webp width="375" image-rendering="pixelated">
   <img src=tr.webp width="375">
   
   <br>
