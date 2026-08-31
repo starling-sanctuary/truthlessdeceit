@@ -8,9 +8,21 @@ Retrieved 2026-09-01, License - CC BY-SA 4.0
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            . { image-rendering: -webkit-optimize-contrast; image-rendering: -moz-crisp-edges; }
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
             </style>
-            <img src=smilk.webp width="375">
+            <h1>HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>
